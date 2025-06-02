@@ -27,7 +27,7 @@ elif user_input=="D":
     id=int(input("Enter ID :"))
     obj3=BLL.Employee(id)
     obj3.delete()
-    print("Delete successfull")
+    print("Delete successfully")
 
 
         
